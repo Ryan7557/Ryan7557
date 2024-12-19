@@ -1,8 +1,8 @@
 Hi there 👋 Ryan Muendesi here:
 
- -🔭 Aspiring software engineer.
+ -🔭 Software engineer.
   
- -🌱 Currently learning Mobile Application|Web development.
+ -🌱 Currently learning Mobile Application.
  
  -💬 Ask me about Mobile application development.
  
