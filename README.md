@@ -1,4 +1,5 @@
 # 💫 About Me:
+I am a skilled full-stack software engineer with a back-end focus, dedicated to building high-quality, efficient applications to solve real-world problems
 🔭 Software Engineer<br>👯 I’m looking to collaborate on any backend project<br>🤝 I’m looking for help with systems design<br>🌱 I’m currently learning systems design<br>💬 Ask me about anything really<br>
 
 
